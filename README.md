@@ -1,5 +1,6 @@
 Coins
 =====
 
-Uses [![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
+Uses [CakePHP](http://www.cakephp.org)
 
+Actual code is inside app directory.
